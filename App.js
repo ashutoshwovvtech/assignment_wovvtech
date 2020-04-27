@@ -15,7 +15,7 @@ import {
   Text,
   StatusBar,
 } from 'react-native';
-import MainStack from './src/HomeScreen/router/Mainrouter';
+import MainStack from './src/router/Mainrouter';
 import * as Some from 'react-native-gesture-handler';
 import {NavigationContainer} from '@react-navigation/native';
 import {Root} from 'native-base';
